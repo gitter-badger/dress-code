@@ -1,8 +1,8 @@
 dist
 node_modules
 .tmp
-tests/screenshots
-tests/failures
+tests/screenshots/results
+failures
 
 # -- Compiled source  -- #
 
