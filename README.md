@@ -5,6 +5,8 @@
 
 # The Dress Code
 
+[![Join the chat at https://gitter.im/zalando-dress-code/Lobby](https://badges.gitter.im/zalando-dress-code/Lobby.svg)](https://gitter.im/zalando-dress-code/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Dress Code is a style library / style guide which is designed for maintainability and modularity.
 
 Used by Zalando Brand Solutions department to solve the challenge of consistency between multiple apps.
